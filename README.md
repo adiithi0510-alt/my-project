@@ -4,30 +4,7 @@ A simple command-line task manager built with TypeScript. Add, complete, and del
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Install dependencies
-```bash
-npm install
-```
-
-### 2. Build the project
-```bash
-npm run build
-```
-
-### 3. Run the app
-```bash
-npm start
-```
-
-You should see:
-```
-🚀 Task Manager CLI — type "help" to get started
->
-```
-
----
 
 ## 💻 Commands
 
